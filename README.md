@@ -1,3 +1,5 @@
+API Build Status [![Build Status](https://dev.azure.com/text-mining/TextMining.Api/_apis/build/status/TextMiningAPI-CI?branchName=master)](https://dev.azure.com/text-mining/TextMining.Api/_build/latest?definitionId=2?branchName=master)
+
 <div dir="rtl">
 
 # Persian-NER
