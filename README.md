@@ -1,3 +1,6 @@
+
+
+
 <div dir="rtl">
 
 # Persian-NER
@@ -26,3 +29,8 @@
 
 
 </div>
+
+### Build Status
+API Build Status [![Build Status](https://dev.azure.com/text-mining/TextMining.Api/_apis/build/status/TextMiningAPI-CI?branchName=master)](https://dev.azure.com/text-mining/TextMining.Api/_build/latest?definitionId=2?branchName=master)
+
+Web Panel Build Status [![Build Status](https://dev.azure.com/text-mining/TextMining.Panel/_apis/build/status/TextMiningPanel-CI?branchName=develop)](https://dev.azure.com/text-mining/TextMining.Panel/_build/latest?definitionId=4?branchName=develop)
